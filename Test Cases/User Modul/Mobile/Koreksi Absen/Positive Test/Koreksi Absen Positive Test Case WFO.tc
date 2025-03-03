@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan koreksi absen setelah melakukan absensi dengan mengisi semua field dengan data Tipe absen &quot;WFO&quot;</description>
+   <name>Koreksi Absen Positive Test Case WFO</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ccfd107-a666-4588-a788-2f2f9b8daa89</testCaseGuid>
+</TestCaseEntity>

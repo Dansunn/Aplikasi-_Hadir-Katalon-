@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hanya mengisi field Jam Masuk</description>
+   <name>Koreksi Absen Positive Case Test Hanya Jam Masuk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92657c3a-642a-4910-8617-b261e680f559</testCaseGuid>
+</TestCaseEntity>

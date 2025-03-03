@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengisi data dengan Tipe Absen WFH</description>
+   <name>Koreksi Absen Positive Test Case WFH</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c9f47ecb-8a9f-4cfa-a760-7f462712a0a6</testCaseGuid>
+</TestCaseEntity>

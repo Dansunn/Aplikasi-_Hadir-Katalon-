@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tidak Mengisi semua field dan langsung tekan tombol ajukan</description>
+   <name>Koreksi Absen Negative Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d865fe88-91ab-4bd4-a0fb-e3a99d5135f2</testCaseGuid>
+</TestCaseEntity>

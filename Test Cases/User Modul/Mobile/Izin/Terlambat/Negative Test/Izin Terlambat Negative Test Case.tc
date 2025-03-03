@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengosongkan semua field dan langsung klik tombol ajukan Izin</description>
+   <name>Izin Terlambat Negative Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f5c74439-4ca9-4c35-8b91-7f996860a49f</testCaseGuid>
+</TestCaseEntity>
