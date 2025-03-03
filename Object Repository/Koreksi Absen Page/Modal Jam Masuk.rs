@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Modal Jam Masuk</name>
+   <tag></tag>
+   <elementGuidId>c24e05fa-617e-4e3c-9fcd-8dded2fb869a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajukan'])[1]/following::div[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiClock-root.css-fhpqww</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.MuiClock-root</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>11c6489d-f66c-4345-8bc7-fc78d6fb844a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiClock-root css-fhpqww</value>
+      <webElementGuid>2e0e20ea-55e4-4c82-a170-587d4a14907d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>001234567891011121314151617181920212223</value>
+      <webElementGuid>55d940f5-2a55-46f1-a95d-1fe3787e0fe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;base-Popper-root MuiPickersPopper-root css-1mtsuo7&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPickersPopper-paper css-1dhb25a&quot;]/div[@class=&quot;MuiCalendarOrClockPicker-root css-j7qwjs&quot;]/div[@class=&quot;css-epd502&quot;]/div[@class=&quot;MuiClockPicker-root css-1brzq0m&quot;]/div[@class=&quot;MuiClock-root css-fhpqww&quot;]</value>
+      <webElementGuid>52b7e8d9-2ca5-4f25-8589-c3016f69fc67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajukan'])[1]/following::div[10]</value>
+      <webElementGuid>dad1cc07-f9fd-43d3-9e62-d17e4a51e71e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::div[10]</value>
+      <webElementGuid>931c96eb-2f10-4fc6-9403-4c4e7e37e51d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]</value>
+      <webElementGuid>cdcd5519-437e-4be7-9510-0acc7944087a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '001234567891011121314151617181920212223' or . = '001234567891011121314151617181920212223')]</value>
+      <webElementGuid>9b467029-f228-4960-842b-d2762f448f35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
